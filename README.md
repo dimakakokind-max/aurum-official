@@ -1,3 +1,4 @@
+<img width="1914" height="949" alt="Снимок экрана 2026-10-17 174745" src="https://github.com/user-attachments/assets/1a90959d-59cf-40c6-a9f8-1dd5ed6b9bd3" />
 
 # aurum-official
 
